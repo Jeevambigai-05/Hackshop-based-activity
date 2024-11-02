@@ -1,4 +1,5 @@
 Overview
+
 This application features two guessing games: User Guessing and Machine Guessing. In the User Guessing mode, the computer selects a random number,
 and the user attempts to guess it. In the Machine Guessing mode, the user thinks of a number, and the machine tries to guess it using a binary search strategy.
 
